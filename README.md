@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Offsec Zero!
+<p align="center">
+  <img src="banner.png" width="100%" alt="Offsec Zero Cybersecurity Banner">
+</p>
+ # 👋 Hi, I'm Offsec Zero!
 
 ### 💻 Web Application Developer | 🔐 Cybersecurity Enthusiast
 
