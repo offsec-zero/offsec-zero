@@ -1,85 +1,112 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Offsec Zero Cybersecurity Banner">
-</p>
- # 👋 Hi, I'm Offsec Zero!
+<!-- OFFSEC.ZERO | GitHub Profile README -->
+<div align="center">
 
-### 💻 Web Application Developer | 🔐 Cybersecurity Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0D,50:161616,100:FF8C00&height=220&section=header&text=OFFSEC.ZERO&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20WEB%20DEVELOPMENT&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="OFFSEC.ZERO header" />
 
-I am passionate about building modern web applications and exploring cybersecurity. I enjoy developing digital solutions while understanding how to secure them.
+# Hi, I'm Nouman Ijaz 👋
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Web+Developer;Learning+to+Build+%26+Secure+the+Web;Learn+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Repeat" alt="Animated introduction" />
 
-## 🚀 About Me
+**Cybersecurity Student · Web Developer · Security Enthusiast**
 
-- 🌐 Focused on Web Application Development.
-- 🔐 Interested in Cybersecurity and Ethical Hacking.
-- 🛡️ Exploring Web Application Security and Penetration Testing.
-- 💻 Learning, building, and experimenting with new technologies.
-- 🎯 My mission: Build secure applications and understand how to protect them.
+![Profile views](https://komarev.com/ghpvc/?username=offsec-zero&label=PROFILE+VIEWS&color=ff8c00&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/offsec-zero?label=FOLLOWERS&style=flat-square&color=ff8c00&labelColor=111111)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛡️ About Me
 
-### 🌐 Web Development
+I'm **Nouman Ijaz**, a cybersecurity student and web developer building practical skills in secure web development, application security, and ethical security testing.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python" />
-</p>
+- 🔐 Exploring **web application security**, **OWASP Top 10**, and defensive security fundamentals.
+- 💻 Building with **HTML, CSS, JavaScript, React, Node.js, PHP, Python, and SQL**.
+- 🧪 Practicing security concepts in **authorized labs and learning environments**.
+- 🐧 Working with **Linux, Kali Linux, Burp Suite, and Nmap**.
+- 🎯 Goal: Build useful software and understand how to secure it.
+- ⚡ Motto: **Learn • Build • Secure • Repeat**.
 
-### 🔐 Cybersecurity & Operating Systems
+## ⚙️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali" />
-</p>
+<div align="center">
 
-**Security Tools & Knowledge**
+**Frontend**
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🗄️ Database & Development Tools
+**Backend & Databases**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E) ![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4) ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB) ![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=FF8C00)
 
----
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+
+</div>
+
+## 🔎 Cybersecurity Toolkit
+
+| Area | Tools / Topics |
+| :--- | :--- |
+| Web Application Security | OWASP Top 10, HTTP, authentication fundamentals |
+| Web Testing | Burp Suite, browser developer tools |
+| Network Discovery | Nmap, TCP/IP fundamentals |
+| Operating Systems | Linux, Kali Linux |
+| Secure Development | Input validation, secure coding, dependency hygiene |
+| Practice | Legal CTFs, deliberately vulnerable apps, authorized labs |
 
 ## 📊 GitHub Statistics
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=offsec-zero&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsec-zero&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=offsec-zero&show_icons=true&theme=dark&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF&bg_color=0D0D0D&hide_border=true" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offsec-zero&layout=compact&theme=dark&title_color=FF8C00&text_color=FFFFFF&bg_color=0D0D0D&hide_border=true" alt="Top languages" height="165" />
 
----
+<img src="https://streak-stats.demolab.com?user=offsec-zero&theme=dark&background=0D0D0D&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true" alt="GitHub streak statistics" />
 
-## 🎯 Current Interests
+</div>
 
-- Full-Stack Web Development
-- Web Application Security
-- Ethical Hacking
-- Vulnerability Assessment
-- Secure Coding Practices
-- OWASP Top 10
+> **Note:** Statistics are generated by third-party services and may occasionally be unavailable or rate-limited. Top languages reflect repository code, not skill proficiency.
 
----
+## 🚀 Featured Projects
 
-## 🌐 Connect With Me
+> Replace the example cards below with your **actual public repositories** as you publish them. These are suggested portfolio projects, not claims of completed work.
 
-[![GitHub](https://img.shields.io/badge/GitHub-offsec--zero-181717?style=for-the-badge&logo=github)](https://github.com/offsec-zero)
+| Project Idea | What to Build | Focus |
+| :--- | :--- | :--- |
+| 🔐 Secure Login Demo | Login flow with validation, password hashing, and safe session handling | Web security |
+| 🌐 Developer Portfolio | Responsive portfolio with project showcases | Frontend development |
+| 🧪 OWASP Learning Notes | Original lab write-ups and defensive lessons | Application security |
+| 🐍 Python Utilities | Small, documented automation tools for local use | Python |
 
----
+**After publishing projects**, pin up to six repositories on your GitHub profile using **Customize your pins**. You can also replace this table with repository links and screenshots.
 
-<p align="center">
-  <b>⚡ Build • Break • Secure • Repeat ⚡</b>
-</p>
+## 🗺️ Learning Roadmap
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+- [x] Create a GitHub profile and learn basic repository workflows
+- [ ] Build and publish responsive web applications
+- [ ] Strengthen JavaScript, React, and backend fundamentals
+- [ ] Practice Linux, networking, and Python automation
+- [ ] Study OWASP Top 10 with safe, authorized labs
+- [ ] Publish documented cybersecurity learning projects
+- [ ] Build a polished portfolio with secure coding examples
+
+*Update the checkboxes as you make progress.*
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-OFFSEC.ZERO-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/offsec-zero)
+
+<!-- Add verified contact links here when ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=FF8C00)](YOUR_PORTFOLIO_URL)
+-->
+
+**Open to learning, collaboration, and building secure web experiences.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:0B0B0D&height=110&section=footer" width="100%" alt="Decorative footer" />
+
+</div>
